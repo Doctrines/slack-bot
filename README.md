@@ -1,2 +1,3 @@
-# slack-bot
-Bot for getting a verse via a reference in slack.
+# Doctrines Slack Bot
+
+Use this bot in slack to get a bible verse via a reference.
